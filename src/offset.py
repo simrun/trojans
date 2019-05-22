@@ -1,3 +1,6 @@
+# Concurrently evaluates wander for a grid of starting points and saves result to disk
+######################################################
+
 from lagrange import *
 
 import multiprocessing

@@ -1,3 +1,6 @@
+# Core functionality
+######################################################
+
 import math
 
 import numpy as np

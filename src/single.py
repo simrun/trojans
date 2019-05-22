@@ -1,3 +1,6 @@
+# Calculates and plots the trajectory of an asteroid given its initial state
+######################################################
+
 from lagrange import *
 
 import matplotlib.pyplot as plt

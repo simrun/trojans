@@ -1,3 +1,7 @@
+# Evaluate wander for a range of planet masses
+# Perform a quadratic fit to quantify the relationship
+######################################################
+
 from lagrange import *
 
 import matplotlib.pyplot as plt

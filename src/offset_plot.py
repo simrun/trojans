@@ -1,3 +1,6 @@
+# Plots data (in ww.npy) produced by offset.py
+######################################################
+
 from offset import *
 
 import matplotlib.pyplot as plt
