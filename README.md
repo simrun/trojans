@@ -12,4 +12,7 @@ The orbits of asteroids bound to Lagrange points 4 and 5 of the Sun-Jupiter syst
 
 The [source code](src) is licensed under the [MIT license](src/LICENSE).
 
-The [writeup](trojans.tex) and [figures](figures) are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+The [writeup](trojans.tex) and [figures](figures) are licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/), with the following exceptions:
+
+* [potential.*](figures/potential.svg) are licensed under the [Creative Commons Attribution 3.0 Unported License](https://creativecommons.org/licenses/by/3.0/) by [Xander89](https://commons.wikimedia.org/wiki/File:Lagrange_points2.svg)
+* [trojans.png](figures/trojans.png) has been released into the public domain by [Mdf](https://commons.wikimedia.org/wiki/File:InnerSolarSystem-en.png)
